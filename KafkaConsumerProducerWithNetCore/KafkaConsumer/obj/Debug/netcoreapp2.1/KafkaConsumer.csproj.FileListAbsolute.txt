@@ -1,0 +1,11 @@
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\obj\Debug\netcoreapp2.1\KafkaConsumer.csproj.CoreCompileInputs.cache
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\obj\Debug\netcoreapp2.1\KafkaConsumer.AssemblyInfoInputs.cache
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\obj\Debug\netcoreapp2.1\KafkaConsumer.AssemblyInfo.cs
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\bin\Debug\netcoreapp2.1\KafkaConsumer.deps.json
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\bin\Debug\netcoreapp2.1\KafkaConsumer.runtimeconfig.json
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\bin\Debug\netcoreapp2.1\KafkaConsumer.runtimeconfig.dev.json
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\bin\Debug\netcoreapp2.1\KafkaConsumer.dll
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\bin\Debug\netcoreapp2.1\KafkaConsumer.pdb
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\obj\Debug\netcoreapp2.1\KafkaConsumer.csprojAssemblyReference.cache
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\obj\Debug\netcoreapp2.1\KafkaConsumer.dll
+D:\GitCode\Apache Kafka Series - Learn Apache Kafka for Beginners\KafkaConsumerProducerWithNetCore\KafkaConsumer\obj\Debug\netcoreapp2.1\KafkaConsumer.pdb
